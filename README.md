@@ -1,2 +1,0 @@
-# Qsupermarket
-read me
